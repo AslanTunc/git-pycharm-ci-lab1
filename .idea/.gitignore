@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.log
+.vscode/
+.ipynb_checkpoints/
+htmlcov/
+.coverage
+.cache
