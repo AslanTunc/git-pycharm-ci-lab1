@@ -1,3 +1,14 @@
-# Default ignored files
-/../../git-pycharm-ci-lab1 /.idea/shelf/
-/../../git-pycharm-ci-lab1 /.idea/workspace.xml
+.idea/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.log
+.vscode/
+.ipynb_checkpoints/
+htmlcov/
+.coverage
+.cache
